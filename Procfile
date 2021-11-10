@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run ds_web_page.py
+web: sh setup.sh && streamlit run comp.py
